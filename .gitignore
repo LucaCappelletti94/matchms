@@ -18,7 +18,6 @@ coverage.xml
 pylint-report.txt
 ruff-report.txt
 xunit-result.xml
-.scannerwork/
 
 docs/_build
 docs/apidocs

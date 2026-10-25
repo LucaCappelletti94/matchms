@@ -10,7 +10,6 @@ Code quality checks:
 
 |CI First Code Checks| |CI Build|
 |ReadTheDocs Badge|
-|Sonarcloud Quality Gate Badge| |Sonarcloud Coverage Badge|
 
 .. image:: readthedocs/_static/matchms_header.png
    :target: readthedocs/_static/matchms.png
@@ -77,14 +76,6 @@ de Jonge NF, Hecht H, Michael Strobel, Mingxun Wang, van der Hooft JJJ, Huber F.
 .. |ReadTheDocs Badge| image:: https://readthedocs.org/projects/matchms/badge/?version=latest
     :alt: Documentation Status
     :target: https://matchms.readthedocs.io/en/latest/?badge=latest
-
-.. |Sonarcloud Quality Gate Badge| image:: https://sonarcloud.io/api/project_badges/measure?project=matchms_matchms&metric=alert_status
-   :target: https://sonarcloud.io/dashboard?id=matchms_matchms
-   :alt: Sonarcloud Quality Gate
-
-.. |Sonarcloud Coverage Badge| image:: https://sonarcloud.io/api/project_badges/measure?project=matchms_matchms&metric=coverage
-   :target: https://sonarcloud.io/component_measures?id=matchms_matchms&metric=Coverage&view=list
-   :alt: Sonarcloud Coverage
 
 **********************************
 Latest changes (matchms >= 0.18.0)
